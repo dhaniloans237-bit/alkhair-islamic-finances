@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alkhair-islamic-finances.netlify.app/sitemap.xml
